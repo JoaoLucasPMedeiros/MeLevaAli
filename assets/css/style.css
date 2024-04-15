@@ -20,7 +20,7 @@ html{
     right: 0;
     width: 100%;
     height: 40vh;
-    background-image: url(/assets/img/menu.jpeg);
+    background-image: url(assets/img/menu.jpeg);
     background-position: center; 
     background-size: cover; 
     color: #ffff ;
