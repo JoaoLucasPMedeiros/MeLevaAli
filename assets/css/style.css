@@ -69,8 +69,9 @@ h1{
     font-size:2.4rem ;
 }
 .color-Premiumu{
-    background-image: url(/assets/img/menuPremiu.svg);
+    background-image: url(assets/img/menuPremiu.svg);
     min-height: 100vh;
+    background-position: center; 
 
 }
 
