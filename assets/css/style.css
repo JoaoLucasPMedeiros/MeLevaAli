@@ -13,7 +13,7 @@ body{
 }
 
 nav{
-    background-image: url(https://raw.githubusercontent.com/JoaoLucasPMedeiros/foto/main/menu.png);
+    background-image: url('https://raw.githubusercontent.com/JoaoLucasPMedeiros/foto/main/menu.png');
     background-position: center; 
     height: 40vh;
 }
