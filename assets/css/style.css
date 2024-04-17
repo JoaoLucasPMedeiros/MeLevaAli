@@ -13,7 +13,7 @@ body{
 }
 
 nav{
-    background-image: url(https://raw.githubusercontent.com/JoaoLucasPMedeiros/foto/main/menu.png);
+    background-image: url('https://raw.githubusercontent.com/JoaoLucasPMedeiros/foto/main/menu.png');
     background-position: center; 
     height: 40vh;
 }
@@ -71,6 +71,7 @@ h1{
 .color-Premiumu{
     background-image: url(https://raw.githubusercontent.com/JoaoLucasPMedeiros/foto/4c51049171e05f878e11f11ab2ecce5965cc3900/menuPremiu.svg);
     min-height: 100vh;
+    background-position: center; 
 
 }
 
