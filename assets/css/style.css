@@ -3,20 +3,17 @@ body{
     font-family: "Raleway", sans-serif;
 }
 
-
-html{
-    font-size: 62.5%;
-    padding: 2rem;
+/* NAV */
+.logo-meLeva{
+    background-color:#FFB400;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #ffff;
 }
 
-.menu {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-    height: 40vh;
-    background-image: url(assets/img/menu.png);
+nav{
+    background-image: url(https://raw.githubusercontent.com/JoaoLucasPMedeiros/foto/main/menu.png);
     background-position: center; 
     height: 40vh;
 }
