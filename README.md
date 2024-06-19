@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de README para um projeto que utiliza JavaScript com a API ArcGIS Developer para calcular a melhor rota:
-
----
-
 # Melhor Rota Utilizando ArcGIS Developer API
 
 Este projeto JavaScript utiliza a API ArcGIS Developer para calcular e exibir a melhor rota entre pontos geográficos específicos.
